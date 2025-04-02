@@ -1,2 +1,3 @@
-# hubs_ppi
-Herramienta para encontrar genes centrales (Hubs) en Redes de Interacción Proteína-Porteína (PPIN).
+# **Hubs_PPI**
+**Identificación de genes centrales (Hubs) en Redes de Interacción Proteína-Proteína**
+
