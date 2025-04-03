@@ -22,4 +22,8 @@ La herramineta producirá un archivo con los puntajes de centralidad por nodo ya
 ---
     conda activate hubs_ppi.yml
 
+**¡Recuerda!**
+
+![May the force be with you!](git.jpg)
+
 
