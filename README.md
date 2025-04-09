@@ -24,6 +24,7 @@ Por ejemplo:
     analizar_hubs('network_macs_ha_cytohubba.csv', 90)
 
 La herramineta producirá un archivo con los puntajes de centralidad por nodo ya normalizados ('hubs_network_macs_ha_cytohubba_scores.csv') y el gráfico ('hubs_network_macs_ha_cytohubba_scores.png) de la distribución de los puntajes. Considerándo el percentil 90, nos indicará el TOP 10% de los genes centrales o *hubs*.
+
 ---
 
 
