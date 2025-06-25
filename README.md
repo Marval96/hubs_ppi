@@ -1,5 +1,5 @@
-# **Hubs PPI**
-**Identificación de genes centrales (Hubs) en Redes de Interacción Proteína-Proteína (PPI).**
+# **Hubs PPIN**
+**Identification of central genes (hubs) in protein-protein interaction networks (PPIN).**
 
 Esta herramienta busca identificar genes centrales (*hubs*) en redes de Interacción Porteína-Proteína. Se toma como entrada un listado de nodos con distintas métricas de centralidad generadas por [Cytohubba](https://pubmed.ncbi.nlm.nih.gov/25521941/) en formato *'csv'*. Normaliza cada una de esas métricas para poderlas comparar entre si y las promedia para obtener un *score* de centralidad para cada uno de los nodos. Esta salida se guarda como *'hubs__$$$_scores.csv'*. Además, también genera un gráfico *'hubs__$$$_scores.png'* sobre la distribución de los *scores* de los nodos. **Esto puede ser útil para determinar que nodos abordar como genes centrales.**
 
